@@ -10,10 +10,15 @@
 ```
 cargo run
 ```
-запуск с свободной камерой но без bevy_mod_picking:
+запуск с свободной камерой но без "bevy_mod_picking":
 ```
 cargo run --eaxample main1
 ```
-![arm](/assets/Robots-sim-2022-07-03.gif "Kuka")
+
+
+https://user-images.githubusercontent.com/108504917/178805670-681061ed-c5de-4922-838c-9edfe8a13146.mp4
+
+
+
 
 Created with Bevy, rapira3d
