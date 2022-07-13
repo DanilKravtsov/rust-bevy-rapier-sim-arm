@@ -21,4 +21,4 @@ https://user-images.githubusercontent.com/108504917/178805670-681061ed-c5de-4922
 
 
 
-Created with Bevy, rapira3d
+Created with Bevy, Rapier3d
