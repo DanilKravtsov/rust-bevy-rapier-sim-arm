@@ -1,0 +1,27 @@
+[package]
+name = "rar"
+version = "0.7.0"
+authors = ["danil"]
+edition = "2021"
+license = "MIT"
+description = "my try create roboarm"
+repository = "https://github.com/DanilKravtsov/learn-rust-bevy"
+readme = "README.md"
+[dependencies]
+bevy = "0.7"
+bevy_obj ="0.7"
+bevy_app = "0.7"
+bevy_asset = "0.7"
+bevy_render = "0.7"
+bevy_utils = "0.7"
+bevy_infinite_grid = { git = "https://github.com/ForesightMiningSoftwareCorporation/bevy_infinite_grid", branch = "main" }
+anyhow = "1.0"
+bevy_mod_picking = "0.7.0"
+bevy_mod_raycast = "0.5.0"
+thiserror = "1.0"
+obj-rs = { version = "0.7", default-features = false }
+bevy_rapier3d ="*"
+bevy_flycam = "*"
+[[example]]
+name = "main1"
+path = "example/main1.rs"
