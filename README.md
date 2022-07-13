@@ -12,7 +12,7 @@ cargo run
 ```
 запуск с свободной камерой но без "bevy_mod_picking":
 ```
-cargo run --eaxample main1
+cargo run --example main1
 ```
 
 
